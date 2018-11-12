@@ -14,5 +14,6 @@ $ cmake .. && make
 
 ## Basics of OpenCV
 
-- [Reading and writing images](./RWImage)
-- [Reading videos and cameras](./ReadVideo)
+- [Reading and writing images](./Chapter2/RWImage)
+- [Reading videos and cameras](./Chapter2/ReadVideo)
+- [Data persistence and storage](./Chapter2/FileStorage)
